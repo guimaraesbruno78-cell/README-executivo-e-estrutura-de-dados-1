@@ -96,3 +96,5 @@ Microsoft Excel (para inspecionar a base de dados em data/Resumo_Produtos.xlsx).
 Bruno Guimarães
 
 Atuação: Analista de Dados & Especialista em Soluções de BI para Pequenos Negócios e Turismo.
+LinkedIn:https://www.linkedin.com/in/bruno-marcio-de-jesus-guimar%C3%A3es-460247360/
+Email:guimaraesbruno78@gmail.com
